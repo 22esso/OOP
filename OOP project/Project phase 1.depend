@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1651160250 source:d:\cpp codes\project phase 1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Rational.h"
+	"Student.h"
+
+1651157324 source:d:\cpp codes\project phase 1\src\rational.cpp
+	"Rational.h"
+
+1651157262 d:\cpp codes\project phase 1\include\rational.h
+	<iostream>
+	<bits/stdc++.h>
+
+1651160192 source:d:\cpp codes\project phase 1\src\student.cpp
+	"Student.h"
+
+1651160210 d:\cpp codes\project phase 1\include\student.h
+	<bits/stdc++.h>
+	"Rational.h"
+
+1651124924 source:e:\oop\oop project\src\rational.cpp
+	"Rational.h"
+
+1651124862 e:\oop\oop project\include\rational.h
+	<iostream>
+	<bits/stdc++.h>
+
+1651128340 source:e:\oop\oop project\src\student.cpp
+	"Student.h"
+
+1651127810 e:\oop\oop project\include\student.h
+	<bits/stdc++.h>
+	"Rational.h"
+
+1653059762 source:e:\oop\oop project\src\course.cpp
+	"Course.h"
+
+1653059769 e:\oop\oop project\include\course.h
+	<iostream>
+	<bits/stdc++.h>
+
+1653061184 source:e:\oop\oop project\src\normalcourse.cpp
+	"NormalCourse.h"
+
+1653060008 e:\oop\oop project\include\normalcourse.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1653061191 source:e:\oop\oop project\src\summercourse.cpp
+	"SummerCourse.h"
+
+1653061103 e:\oop\oop project\include\summercourse.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
